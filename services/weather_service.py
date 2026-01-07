@@ -2,7 +2,7 @@ import requests
 
 
 class WeatherService:
-    API_KEY = "774686071ea9af2ccf4c1b847f41d411"
+    API_KEY = "SUA CHAVE API"
     BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
     def buscar_clima(self, cidade):
